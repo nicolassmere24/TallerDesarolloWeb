@@ -1,0 +1,88 @@
+body {
+  height: 900px;
+  max-width: 800px;
+  width: 800px;
+  background-color: rgb(243, 231, 206);
+  margin: 20px auto;
+  border: 15px solid #000000;
+  padding: 0 5% 2% 5%;
+}
+div.Titulo {
+  font-family: verdana;
+  color: rgb(174, 47, 30);
+  font-size: 20px;
+  margin-left: 50px;
+  width: auto;
+  height: 10px;
+}
+
+div.Presentacion {
+  background-size: auto;
+  background-image: url("https://i2.wp.com/www.methodsunsound.com/wp-content/uploads/2017/02/logan-imax-poster.jpg");
+  background-repeat: no-repeat;
+  width: 1000px;
+  height: 800px;
+}
+div.NombrePagina {
+  font-family: arial black;
+  color: black;
+  margin-left: 200px;
+  font-size: 40px;
+  height: 20%;
+}
+div.Medio {
+  height: 20%;
+}
+div.Logan {
+  margin-left: 90px;
+  height: 24%;
+  font-size: 80px;
+  font-family: verdana;
+  color: white;
+  text-shadow: -2px -2px 1px #000;
+}
+div.PieDeFoto1 {
+  float: left;
+  background-image: url(http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c43e.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 10%;
+  width: 10%;
+}
+div.PieDeFoto2 {
+  width: 70%;
+  font-family: arial black;
+  color: white;
+  text-shadow: -2px -2px 1px #000;
+  font-variant: inherit;
+}
+div.Otros {
+  background-color: rgb(174, 47, 30);
+  height: 10%;
+  width: 80%;
+}
+div.Otros1 {
+  float: left;
+  margin-left: 80px;
+  margin-right: 20px;
+  width: 20%;
+  font-family: verdana;
+  color: white;
+  text-align: center;
+  text-shadow: -2px -2px 1px #000;
+}
+div.Otros2 {
+  float: left;
+  width: 40%;
+  color: white;
+  margin-right: 40px;
+  font-family: verdana;
+  font-size: 15px;
+}
+div.Otros3 {
+  padding-top: 1px;
+  font-size: 10px;
+  font-family: arial black;
+  color: black;
+  line-height: 5px;
+}
